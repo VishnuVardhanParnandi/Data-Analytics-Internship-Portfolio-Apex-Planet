@@ -117,7 +117,7 @@ To analyze sales data, identify revenue opportunities, and validate insights usi
 
 * 🔗 LinkedIn: https://linkedin.com/in/vishnuvardhan-parnandi-32bba7329
 * 💻 GitHub: https://github.com/VishnuVardhanParnandi
-
+* 📧 Gmail: vishnuva073@gmail.com
 ---
 
 ## 🏁 Conclusion

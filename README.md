@@ -91,8 +91,8 @@ To analyze sales data, identify revenue opportunities, and validate insights usi
 
 ## 📽️ Deliverables
 
-* 📊 Final Presentation Deck *(Upload PPT link)*
-* 🎥 LinkedIn Presentation Video (https://www.linkedin.com/posts/vishnuvardhan-parnandi-32bba7329_dataanalytics-datascience-businessanalytics-activity-7445053187700723713-ii1v?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFLvrxMBzYoJmYj3FujT_U17RWNmBHGqzAM)
+* 📊 Final Presentation Deck *(https://1drv.ms/p/c/127cf1ce71458617/IQDY1BOxL9ZDT56IHuWepgT_AfQepZVB25NYUyPw1Kys7zk?e=LEmp8b)*
+* 🎥 LinkedIn Presentation Video *(https://www.linkedin.com/posts/vishnuvardhan-parnandi-32bba7329_dataanalytics-datascience-businessanalytics-activity-7445053187700723713-ii1v?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFLvrxMBzYoJmYj3FujT_U17RWNmBHGqzAM)*
 * 🧪 Hypothesis Testing Code
 * 📂 Complete Project Repositories
 

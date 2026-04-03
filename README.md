@@ -28,8 +28,8 @@ During this internship, I completed **5 structured tasks**, progressing from raw
 
 ## 📂 Project Roadmap
 
-| Task       | Project Name                   | Description                                                   | Tech Stack         | 🔗 Link       |
-| :--------- | :----------------------------- | :------------------------------------------------------------ | :----------------- | :------------ |
+| Task       | Project Name                   | Description                                                   | Tech Stack         | 🔗 Link                                                           |
+| :--------- | :----------------------------- | :------------------------------------------------------------ | :----------------- | :---------------------------------------------------------------   |
 | **Task 1** | Data Cleaning & Wrangling      | Cleaned dataset, handled missing values, removed duplicates   | Python, Pandas     | 🔗 https://github.com/VishnuVardhanParnandi/ApexPlanet_Task-1.git |
 | **Task 2** | EDA & Insights                 | Identified trends like regional performance & seasonal spikes | Python, SQL        | 🔗 https://github.com/VishnuVardhanParnandi/ApexPlanet-Task_2.git |
 | **Task 3** | Customer Segmentation          | Applied **RFM Analysis** and built dashboards                 | Power BI, DAX      | 🔗 https://github.com/VishnuVardhanParnandi/ApexPlanet-Task-3.git |

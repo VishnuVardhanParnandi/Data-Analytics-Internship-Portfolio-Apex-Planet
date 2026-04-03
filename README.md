@@ -30,10 +30,10 @@ During this internship, I completed **5 structured tasks**, progressing from raw
 
 | Task       | Project Name                   | Description                                                   | Tech Stack         | 🔗 Link |
 |------------|--------------------------------|---------------------------------------------------------------|--------------------|--------|
-| **Task 1** | Data Cleaning & Wrangling      | Cleaned dataset, handled missing values, removed duplicates   | Python, Pandas     | [View Repo](https://github.com/VishnuVardhanParnandi/ApexPlanet_Task-1.git) |
-| **Task 2** | EDA & Insights                 | Identified trends like regional performance & seasonal spikes | Python, SQL        | [View Repo](https://github.com/VishnuVardhanParnandi/ApexPlanet-Task_2.git) |
-| **Task 3** | Customer Segmentation          | Applied **RFM Analysis** and built dashboards                 | Power BI, DAX      | [View Repo](https://github.com/VishnuVardhanParnandi/ApexPlanet-Task-3.git) |
-| **Task 4** | Data Storytelling & Validation | Conducted **T-Test** to validate business hypothesis          | Python, SciPy, PPT | [View Repo](https://github.com/VishnuVardhanParnandi/ApexPlanet-Task-4.git) |
+| **[Task 1]** | Data Cleaning & Wrangling      | Cleaned dataset, handled missing values, removed duplicates   | Python, Pandas     | [Task-1](https://github.com/VishnuVardhanParnandi/ApexPlanet_Task-1.git) |
+| **[Task 2]** | EDA & Insights                 | Identified trends like regional performance & seasonal spikes | Python, SQL        | [Task-2](https://github.com/VishnuVardhanParnandi/ApexPlanet-Task_2.git) |
+| **[Task 3]** | Customer Segmentation          | Applied **RFM Analysis** and built dashboards                 | Power BI, DAX      | [Task-3](https://github.com/VishnuVardhanParnandi/ApexPlanet-Task-3.git) |
+| **[Task 4]** | Data Storytelling & Validation | Conducted **T-Test** to validate business hypothesis          | Python, SciPy, PPT | [Task-4](https://github.com/VishnuVardhanParnandi/ApexPlanet-Task-4.git) |
 
 ---
 
